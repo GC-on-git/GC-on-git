@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and video games
 - 🌱 I’m currently learning about Data Science
 - 💞️ I’m looking to collaborate on any ML/DL projects and also team up for some Kaggle competetions
-- 📫 You can contact me via my Github or via LinkedIn @
+- 📫 You can contact me via my Github 
 
 <!---
 GC-on-git/GC-on-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
